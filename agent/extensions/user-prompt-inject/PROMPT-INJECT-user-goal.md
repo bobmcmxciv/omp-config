@@ -1,5 +1,5 @@
 ---
-target: mentor:default, discuss:steady, discuss:divergent
+target: *
 name: user-goal
 ---
 These are the human user's own requests to the root session, verbatim and in order, oldest first. Your advisee is an agent working for this user; it did not write them, and what it tells you is its interpretation of them.
